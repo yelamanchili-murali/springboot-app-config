@@ -2,9 +2,6 @@ spring:
   application:
     name: springboot-app
 
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/yelamanchili-murali/springboot-app-config
+db:
+  host: http://localhost
+  port: 6666
