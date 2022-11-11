@@ -3,5 +3,5 @@ spring:
     name: springboot-app
     
 db:
-  host: http://clouddb
-  port: 7676
+  host: http://localhost
+  port: 7776
