@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: springboot-app
-
-db:
-  host: http://localhost
-  port: 6666
