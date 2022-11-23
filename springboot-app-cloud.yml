@@ -5,3 +5,8 @@ spring:
 db:
   host: http://clouddb
   port: 7676
+  
+weather:
+  forecast:
+    service: https://customcontainertest
+    uri: /WeatherForecast
