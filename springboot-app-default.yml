@@ -5,3 +5,8 @@ spring:
 db:
   host: http://localhost
   port: 7776
+  
+weather:
+  forecast:
+    service: https://customcontainertest
+    uri: /WeatherForecast
