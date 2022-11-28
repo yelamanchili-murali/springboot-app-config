@@ -8,5 +8,5 @@ db:
   
 weather:
   forecast:
-    service: https://customcontainertest
+    service: http://customcontainertest
     uri: /WeatherForecast
