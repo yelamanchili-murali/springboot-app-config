@@ -3,7 +3,7 @@ spring:
     name: dotnetcore-app
     
 db:
-  host: http://localhost
+  host: http://dotlocalhost
   port: 7777
   
 weather:
