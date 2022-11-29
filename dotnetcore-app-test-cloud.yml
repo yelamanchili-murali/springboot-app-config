@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: dotnetcore-app
+    
+db:
+  host: http://11cosmosdb
+  port: 7676
+  
+weather:
+  forecast:
+    service: http://customcontainertest
+    uri: /WeatherForecast
