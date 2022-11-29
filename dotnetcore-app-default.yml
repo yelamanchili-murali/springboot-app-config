@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: dotnetcore-app
+    
+db:
+  host: http://localhost
+  port: 7777
+  
+weather:
+  forecast:
+    service: http://customcontainertest
+    uri: /WeatherForecast
