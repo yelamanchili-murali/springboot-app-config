@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: springboot-app
+    
+db:
+  host: http://devhost
+  port: 52776
+  
+weather:
+  forecast:
+    service: http://devcontainertest
+    uri: /WeatherForecast/Development
