@@ -1,0 +1,17 @@
+{
+    "spring": {
+        "application": {
+            "name": "springboot-app"
+        }
+    },
+    "db": {
+        "host": "http://cloud2",
+        "port": 77764
+    },
+    "weather": {
+        "forecast": {
+            "service": "http://customcontainertestjson",
+            "uri": "/WeatherForecast"
+        }
+    }
+}
