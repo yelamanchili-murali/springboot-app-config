@@ -1,0 +1,15 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning",
+      "Microsoft.AspNetCore": "Debug"
+    }
+  },
+  "AllowedHosts": "*",
+  "Settings": {
+    "AppName": "Dotnet Todo app",
+    "Version": 1.0,
+    "MaxItems": 30,
+    "ItemPrefix": "Item name"
+  }
+}
