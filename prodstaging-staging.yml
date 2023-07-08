@@ -1,2 +1,3 @@
-app.property3=acs-staging-propvalue3
-app.property4=acs-staging-propvalue4
+app:
+  property3: acs-staging-propvalue3
+  property4: acs-staging-propvalue4
